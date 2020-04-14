@@ -7,7 +7,7 @@
     { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Pris": 23 },
     { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Pris": 45 }
   ],
-  "Store1": [
+  "Store2": [
     { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Pris": 39 },
     { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Pris": 24 },
     { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Pris": 25 },
