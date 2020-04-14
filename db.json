@@ -1,12 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Store1": [
+    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Pris": 42 },
+    { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Pris": 23 },
+    { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Pris": 24 },
+    { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Pris": 34 },
+    { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Pris": 23 },
+    { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Pris": 45 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Store1": [
+    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Pris": 39 },
+    { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Pris": 24 },
+    { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Pris": 25 },
+    { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Pris": 32 },
+    { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Pris": 25 },
+    { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Pris": 59 }
   ],
   "profile": {
     "name": "typicode"
