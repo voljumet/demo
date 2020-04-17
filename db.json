@@ -1,6 +1,6 @@
 {
   "Store1": [
-    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Price": 42 },
+    { "id": 1, "title": "Melkesjokolade", "Supplier": "Freia", "Price": 42 },
     { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Price": 23 },
     { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Price": 24 },
     { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Price": 34 },
