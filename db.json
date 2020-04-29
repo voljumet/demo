@@ -1,19 +1,19 @@
 {
   "Store1": [
-    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Price": 42, "Quantity": 1 },
-    { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Price": 23, "Quantity": 1  },
-    { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Price": 24, "Quantity": 1  },
-    { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Price": 34, "Quantity": 1  },
-    { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Price": 23, "Quantity": 1  },
-    { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Price": 45, "Quantity": 1  }
+    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Price": 42},
+    { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Price": 23},
+    { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Price": 24},
+    { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Price": 34},
+    { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Price": 23},
+    { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Price": 45}
   ],
   "Store2": [
-    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Price": 39, "Quantity": 1  },
-    { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Price": 24, "Quantity": 1  },
-    { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Price": 25, "Quantity": 1  },
-    { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Price": 32, "Quantity": 1  },
-    { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Price": 25, "Quantity": 1  },
-    { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Price": 59, "Quantity": 1  }
+    { "id": 1, "ProductName": "Melkesjokolade", "Supplier": "Freia", "Price": 39 },
+    { "id": 2, "ProductName": "Lett Melk", "Supplier": "Q-Meieriene", "Price": 24  },
+    { "id": 3, "ProductName": "Lett Melk", "Supplier": "Tine", "Price": 25  },
+    { "id": 4, "ProductName": "Pilsner", "Supplier": "CB", "Price": 32  },
+    { "id": 5, "ProductName": "Lyspære 10W", "Supplier": "Osram", "Price": 25  },
+    { "id": 6, "ProductName": "Grandiosa", "Supplier": "Stabburet", "Price": 59  }
   ],
   "profile": {
     "name": "typicode"
